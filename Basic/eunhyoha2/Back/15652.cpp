@@ -7,7 +7,7 @@ int arr[10];
 void seq(int x, int len) {
     if (len == m) {
         for (int i = 0; i < m; i++)
-            printf("%d ", arr[i]);
+            printf("%d ", arr[i]);  
         printf("\n");
         return;
     }
