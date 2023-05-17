@@ -5,7 +5,7 @@ using namespace std;
 int n, m;
 
 int arr[10];
-int num[10];
+int num[10]; 
 int check[10];
 
 void seq(int len) {
